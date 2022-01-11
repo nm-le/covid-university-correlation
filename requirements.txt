@@ -1,0 +1,12 @@
+# Final Project Library Requirements
+
+# Web-scraping/data collection
+twint==2.1.20
+twint-fork # latest version addon
+
+# Loading bar
+tqdm==4.62.3
+
+# Graphics and data visualization
+matplotlib==3.5.1
+numpy==1.21.4
