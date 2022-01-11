@@ -1,0 +1,10 @@
+filter
+Datasets
+.idea
+__pycache__
+*.png
+*.csv
+impact_scores
+regional_covid_data
+Datasets
+.DS_Store
