@@ -3,7 +3,7 @@
 
 *The final project to University of Toronto's CSC110H1 course - with final result of 95.5%.*
 
-*Built by Shaan Purewal, Minh Le, Tony Kim, Kurtis Law after pulling 2 all-nighters :)*
+*Built by Shaan Purewal, [Minh Le](github.com/nm-le), Tony Kim, Kurtis Law after pulling 2 all-nighters :)*
 
 ## Abstract
 ![screenshot of project pdf](https://i.imgur.com/YmzZQ0i.png)
