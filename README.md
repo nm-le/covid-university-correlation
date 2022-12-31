@@ -1,7 +1,7 @@
 # covid-university-correlation
 **Determining the correlation between the impact of universities' social media announcements and COVID cases through statistical analysis**
 
-*The final project to University of Toronto's CSC110H1 course - with final result of 95.5%.*
+*The final project to University of Toronto's CSC110 course - with final result of 95.5%.*
 
 *Built by Shaan Purewal, [Minh Le](https://github.com/nm-le), Tony Kim, [Kurtis Law](https://github.com/kurtislaw)*
 
